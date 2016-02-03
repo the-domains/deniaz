@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Deniaz]]></title>
         <description><![CDATA[Deniaz]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/deniaz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 15:15:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Feb 2016 15:17:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/deniaz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/564e33e9-fff7-4df5-bbea-e33d0600aa4b.jpg">]]></description>
+            <link>https://thegrid.ai/deniaz/0ccb74f9-3271-41e9-9e57-d531f90525e8/index.html</link>
+            <guid isPermaLink="false">0ccb74f9-3271-41e9-9e57-d531f90525e8</guid>
+            <pubDate>Wed, 03 Feb 2016 15:16:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecc64ea8-eee5-4157-a78a-5258274d38a4.jpg">]]></description>
-            <link>undefined64838701-c888-48b7-bb17-9168c489608b/index.html</link>
+            <link>https://thegrid.ai/deniaz/64838701-c888-48b7-bb17-9168c489608b/index.html</link>
             <guid isPermaLink="false">64838701-c888-48b7-bb17-9168c489608b</guid>
             <pubDate>Wed, 03 Feb 2016 15:15:30 GMT</pubDate>
         </item>
