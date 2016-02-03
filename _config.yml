@@ -1,0 +1,28 @@
+name: Deniaz
+favicon: null
+layout_spectrum: 0.10853514075279236
+typography_spectrum: 0.16895964997820556
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.167959421640262
+  lightness: 0.06126062758266926
+  saturation: 0.24577713944017887
+  rhythmicContrast: 0.03287127846851945
+purpose: []
