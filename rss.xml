@@ -4,8 +4,15 @@
         <description><![CDATA[Not all those who wander are lost.]]></description>
         <link>https://thegrid.ai/deniaz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 15:48:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 15:57:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/deniaz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Strider]]></title>
+            <description><![CDATA[<h1>Strider</h1>]]></description>
+            <link>https://thegrid.ai/deniaz/strider/index.html</link>
+            <guid isPermaLink="false">43e10911-3fff-4cfc-a3a8-a983f27a7b9f</guid>
+            <pubDate>Wed, 03 Feb 2016 15:56:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/16697277-db80-49cd-b183-848bba036ffd.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/deniaz/02bc69bc-ae7f-41ad-b2c6-2003088235ba/index.html</link>
             <guid isPermaLink="false">02bc69bc-ae7f-41ad-b2c6-2003088235ba</guid>
             <pubDate>Wed, 03 Feb 2016 15:29:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/564e33e9-fff7-4df5-bbea-e33d0600aa4b.jpg">]]></description>
-            <link>https://thegrid.ai/deniaz/0ccb74f9-3271-41e9-9e57-d531f90525e8/index.html</link>
-            <guid isPermaLink="false">0ccb74f9-3271-41e9-9e57-d531f90525e8</guid>
-            <pubDate>Wed, 03 Feb 2016 15:16:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
